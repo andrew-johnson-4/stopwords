@@ -6,15 +6,15 @@ An esoteric language made up entirely of English stop words. Kudos to anyone who
 - an `bitwise not of next token if token does not agree`
 - the `actually just a stop word, ignored`
 - and `bitwise and`
-- it
+- it `reference value held by possessor of this token`
 - for `for $x in $e $t for`
 - or `bitwise or`
 - but
 - in
-- my
-- your
-- our
-- their
+- my `first person possessive`
+- your `second person possessive`
+- our `first/second person possessive`
+- their `third person possessive`
 
 # Hello World
 
