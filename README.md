@@ -1,5 +1,5 @@
 # stopwords
-An esoteric language made up entirely of English stop words
+An esoteric language made up entirely of English stop words. Kudos to anyone who can write grammatically correct sentences.
 
 # Keywords
 - a
