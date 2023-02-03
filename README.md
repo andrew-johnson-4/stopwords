@@ -9,8 +9,8 @@ An esoteric language made up entirely of English stop words. Kudos to anyone who
 - it `reference value held by possessor of this token`
 - for `for $x in $e $t for`
 - or `bitwise or`
-- but
-- in
+- but `function/data call`
+- in `function/data binding`
 - my `first person possessive`
 - your `second person possessive`
 - our `first/second person possessive`
