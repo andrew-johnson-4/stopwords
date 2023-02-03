@@ -4,10 +4,10 @@ An esoteric language made up entirely of English stop words. Kudos to anyone who
 # Keywords
 - a
 - an
-- the
+- the `actually just a stop word, ignored`
 - and
 - it
-- for
+- for `for $x in $e $t for`
 - or
 - but
 - in
@@ -19,6 +19,6 @@ An esoteric language made up entirely of English stop words. Kudos to anyone who
 # Hello World
 
 ```stopwords
-for the a in my it
-your but an and in their for
+for the a in it
+your an and in their for
 ```
