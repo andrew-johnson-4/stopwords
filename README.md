@@ -18,4 +18,7 @@ An esoteric language made up entirely of English stop words
 
 # Hello World
 
-TBD
+```stopwords
+for the a in my it
+your but an and in their for
+```
